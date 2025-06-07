@@ -18,8 +18,8 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 4: Dicts, Sets and Tuples
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 5: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 5: String Operations
+- [Lab | String Operations and Bag of Words](https://github.com/Guilhermertp/lab-string-operations)
 
 ### 📁 6: Dicts, Sets and Tuples
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
