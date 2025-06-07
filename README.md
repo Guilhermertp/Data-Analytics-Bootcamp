@@ -105,52 +105,53 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 33: Linear Regression
 - [Lab | Regression Analysis](https://github.com/Guilhermertp/lab-regression-analysis)
 
-### 📁 34: EDA Mini-project - Part 2 (Optional)
-- [Lab | Inferential Statistics Review](https://github.com/Guilhermertp/M2-mini-project2)
+### 📁 34: Mini-project - Part 2 EDA (Optional (Continuation of the point 19) )
+- [Mini-Project | Module 2 Cumulative Lab 1](https://github.com/Guilhermertp/M2-mini-project1)
 
 ### 📁 35: Introduction to Probability
 - [Lab | Probability Introduction](https://github.com/Guilhermertp/lab-intro-prob)
 
 ### 📁 36: Probability Distributions
+- [Lab | Discrete and Continuous Probability Distributions](https://github.com/Guilhermertp/lab-probability-distributions)
+
+### 📁 37: Hypothesis Testing Mini-Project
+- [Lab | Inferential Statistics Review](https://github.com/Guilhermertp/M2-mini-project2)
+
+### 📁 38: Confidence Intervals
+- [Lab | Confidence Intervals](https://github.com/Guilhermertp/lab-confidence-intervals)
+
+### 📁 39: Hypothesis Testing
+- [Lab 1 | Hypothesis Testing](https://github.com/Guilhermertp/lab-hypothesis-testing-1)
+- [Lab 2 | Hypothesis Testing](https://github.com/Guilhermertp/lab-hypothesis-testing-2)
+
+### 📁 40: Intro to Scipy
+- [Lab | Introduction to SciPy](https://github.com/Guilhermertp/lab-intro-to-scipy)
+
+### 📁 41: Two Sample Hypothesis Tests
+- [Lab | Two Sample Hypothesis Testing](https://github.com/Guilhermertp/lab-two-sample-hyp-test)
+
+### 📁 42: Goodness of Fit
+- [Lab | Goodness of Fit and Independence Tests](https://github.com/Guilhermertp/lab-goodfit-indeptests)
+
+### 📁 43: Project . Hypothesis Testing
+- [Melbourne-RealEstate](https://github.com/Guilhermertp/Melbourne-RealEstate)
+
+### 📁 44: Parallelization (Optional)
+- [Lab | Parallelization](https://github.com/Guilhermertp/Parallelization)
+
+### 📁 45: Bayesian Statistics (Optional)
+- [Lab | Intro to Bayesian Statistics](https://github.com/Guilhermertp/Bayesian-Statistics)
+
+### 📁 46: 
 - [Lab | Dicts, Sets, and Tuples]()
 
-### 📁 37: 
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 38: 
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 39: 
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 40: 
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 41: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 42: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 43: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 44: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 45: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 46: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
-
-### 📁 47: Dicts, Sets and Tuples
+### 📁 47: 
 - [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 48: Dicts, Sets and Tuples
 - [Lab | Dicts, Sets, and Tuples]()
 
-### 📁 49: Dicts, Sets and Tuples
+### 📁 49: 
 - [Lab | Dicts, Sets, and Tuples]()
 ---
 
