@@ -161,8 +161,20 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 51: Problems in Machine Learning
 - [Lab | Problems with Machine Learning](https://github.com/ta-data-lis/lab-problems-in-ml)
 
-### 📁 52: 
-- [Lab | Supervised Learning with Scikit-Learn](https://github.com/Guilhermertp/lab-supervised-learning-sklearn)
+### 📁 52: Project - Hackaton
+- [Shop Revenue Prediction Task](https://github.com/Guilhermertp/IronKaggle)
+
+### 📁 53: 
+- [Shop Revenue Prediction Task]()
+
+### 📁 54: 
+- [Shop Revenue Prediction Task]()
+
+### 📁 55: 
+- [Shop Revenue Prediction Task]()
+
+### 📁 56: 
+- [Shop Revenue Prediction Task]()
 ---
 
 ## Final Project 🎓
