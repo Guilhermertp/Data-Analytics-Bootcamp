@@ -12,9 +12,11 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 2: First Project
 - [Text RPG Game-Python](https://github.com/Guilhermertp/Text_RPG_Game/)
 
-### 📁 Week 3: SQL & Database Queries
-- [Text RPG Game-Python](https://github.com/your-username/sql-project-week3)
+### 📁 3: List comprehensions
+- [Lab | List Comprehensions](https://github.com/your-username/sql-project-week3)
 
+### 📁 4: Dicts, Sets and Tuples
+- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-list-comprehensions)
 ---
 
 ## Final Project 🎓
