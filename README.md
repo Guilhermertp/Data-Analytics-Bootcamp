@@ -9,11 +9,11 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 1: Prework for the Ironhack Data Analytics Bootcamp
 - [Prework](https://github.com/Guilhermertp/data-prework)
 
-### 📁 Week 2: Data Cleaning & Pandas
-- [Cleaning Housing Dataset](https://github.com/your-username/cleaning-housing-week2)
+### 📁 2: First Project
+- [Text RPG Game-Python]([https://github.com/your-username/cleaning-housing-week2](https://github.com/Guilhermertp/Text_RPG_Game/tree/main))
 
 ### 📁 Week 3: SQL & Database Queries
-- [PostgreSQL Queries](https://github.com/your-username/sql-project-week3)
+- [Text RPG Game-Python](https://github.com/your-username/sql-project-week3)
 
 ---
 
