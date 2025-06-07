@@ -164,26 +164,20 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 52: Project - Hackaton
 - [Shop Revenue Prediction Task](https://github.com/Guilhermertp/IronKaggle)
 
-### 📁 53: 
-- [Shop Revenue Prediction Task]()
+### 📁 53: Unsupervised Learning
+- [Lab | Unsupervised Learning](https://github.com/Guilhermertp/lab-unsupervised-learning)
 
-### 📁 54: 
-- [Shop Revenue Prediction Task]()
+### 📁 54: Unsupervised Learning with Sckit-Learn
+- [Lab | Unsupervised Learning with Scikit-Learn](https://github.com/Guilhermertp/lab-unsupervised-learning-and-sklearn)
 
-### 📁 55: 
-- [Shop Revenue Prediction Task]()
+### 📁 55: Deep Learning
+- [Lab | Neural Networks](https://github.com/Guilhermertp/lab-deep-learning)
 
-### 📁 56: 
-- [Shop Revenue Prediction Task]()
+### 📁 56: Natural Language Processing
+- [Lab | Natural Language Processing](https://github.com/Guilhermertp/lab-nlp)
 ---
 
 ## Final Project 🎓
 - [Water potability prediciton App](https://github.com/Guilhermertp/Water-potability-app)
 
----
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- SQL (PostgreSQL)
-- Tableau
-- Excel
