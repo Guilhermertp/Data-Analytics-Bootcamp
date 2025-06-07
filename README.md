@@ -21,70 +21,70 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 5: String Operations
 - [Lab | String Operations and Bag of Words](https://github.com/Guilhermertp/lab-string-operations)
 
-### 📁 6: Dicts, Sets and Tuples
+### 📁 6: Numpy
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 7: Dicts, Sets and Tuples
+### 📁 7: Intro to Pandas
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 8: Dicts, Sets and Tuples
+### 📁 8: My First Queries
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 9: Dicts, Sets and Tuples
+### 📁 9: MySQL Select
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 10: Dicts, Sets and Tuples
+### 📁 10: MySQL Advanced
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 11: Dicts, Sets and Tuples
+### 📁 11: Dataframe Calculations
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 12: Dicts, Sets and Tuples
+### 📁 12: Advanced Pandas
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 13: Dicts, Sets and Tuples
+### 📁 13: Importing and Exporting Data
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 14: Dicts, Sets and Tuples
+### 📁 14: Data Cleaning
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 15: Dicts, Sets and Tuples
+### 📁 15: Lambda Functions
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 16: Dicts, Sets and Tuples
+### 📁 16: Map, Reduce, Filter 
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 17: Dicts, Sets and Tuples
+### 📁 17: SQL Project
+- [Project Bootcamps](https://github.com/Guilhermertp/project-bootcamps)
+
+### 📁 18: API Scavanger Game
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 18: Dicts, Sets and Tuples
+### 📁 19: Mini-project - Part 1
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 19: Dicts, Sets and Tuples
+### 📁 20: Web Scraping
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 20: Dicts, Sets and Tuples
+### 📁 21: Pandas Deep Dive
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 21: Dicts, Sets and Tuples
+### 📁 22: Advanced Regex
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 22: Dicts, Sets and Tuples
+### 📁 23: Matplotlib and Seaborn
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 23: Dicts, Sets and Tuples
+### 📁 24: Code Simplicity and Efficiency
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 24: Dicts, Sets and Tuples
+### 📁 25: Project WebScrapping
+- [Project Data Thieves](https://github.com/Guilhermertp/lab-tuple-set-dict)
+
+### 📁 26: Introduction to BI and Tableau
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 25: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
-
-### 📁 26: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
-
-### 📁 27: Dicts, Sets and Tuples
+### 📁 27: BI Analysis with Tableau
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
 ### 📁 28: Dicts, Sets and Tuples
