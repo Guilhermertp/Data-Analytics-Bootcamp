@@ -87,11 +87,11 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 27: BI Analysis with Tableau
 - [Lab | BI Analysis with Tableau](https://github.com/Guilhermertp/lab-bi-analysis-tableau)
 
-### 📁 28: 
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 28: Tableau Advanced Charts (Optional)
+- [Lab | Tableau advanced charts](https://github.com/Guilhermertp/lab-tableau-advanced-charts)
 
-### 📁 29: 
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 29: Tableau Dashboard Mini Project
+- [Lab | Tableau Dashboard Mini Project](https://github.com/Guilhermertp/lab-London-crime/)
 
 ### 📁 30: 
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
