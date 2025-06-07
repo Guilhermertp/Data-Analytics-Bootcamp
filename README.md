@@ -40,60 +40,60 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Lab | Dataframe Calculation and Transformation](https://github.com/Guilhermertp/lab-dataframe-calculations)
 
 ### 📁 12: Advanced Pandas
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Advanced Topics with Pandas](https://github.com/Guilhermertp/lab-advanced-pandas)
 
 ### 📁 13: Importing and Exporting Data
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Importing and Exporting Files](https://github.com/Guilhermertp/lab-import-export)
 
 ### 📁 14: Data Cleaning
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Data Cleaning](https://github.com/Guilhermertp/lab-data-cleaning)
 
 ### 📁 15: Lambda Functions
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Lambda Functions](https://github.com/Guilhermertp/lab-lambda-functions)
 
-### 📁 16: Map, Reduce, Filter 
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 16: Map, Reduce, Filter (Optional)
+- [Lab | Map, Reduce, Filter](https://github.com/Guilhermertp/lab-map-reduce-filter)
 
 ### 📁 17: SQL Project
 - [Project Bootcamps](https://github.com/Guilhermertp/project-bootcamps)
 
 ### 📁 18: API Scavanger Game
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | API Scavenger Game](https://github.com/Guilhermertp/lab-api-scavenger)
 
-### 📁 19: Mini-project - Part 1
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 19: Mini-project - Part 1 (Optional)
+- [Mini-Project | Module 2 Cumulative Lab 1](https://github.com/Guilhermertp/M2-mini-project1)
 
 ### 📁 20: Web Scraping
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Web Scraping](https://github.com/Guilhermertp/lab-web-scraping)
 
 ### 📁 21: Pandas Deep Dive
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Pandas Deep Dive](https://github.com/Guilhermertp/lab-pandas-deep-dive)
 
 ### 📁 22: Advanced Regex
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Advanced Regular Expressions](https://github.com/Guilhermertp/lab-advanced-regex)
 
 ### 📁 23: Matplotlib and Seaborn
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Matplotlib and Seaborn Deep Dive](https://github.com/Guilhermertp/lab-matplotlib-seaborn)
 
-### 📁 24: Code Simplicity and Efficiency
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 24: Code Simplicity and Efficiency (Optional)
+- [Lab | Code Simplicity and Efficiency](https://github.com/Guilhermertp/Code-Simplicity-Efficiency)
 
 ### 📁 25: Project WebScrapping
 - [Project Data Thieves](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
 ### 📁 26: Introduction to BI and Tableau
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Introduction to BI and Tableau](https://github.com/Guilhermertp/lab-intro-bi-tableau)
 
 ### 📁 27: BI Analysis with Tableau
+- [Lab | BI Analysis with Tableau](https://github.com/Guilhermertp/lab-bi-analysis-tableau)
+
+### 📁 28: 
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 28: Dicts, Sets and Tuples
+### 📁 29: 
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
-### 📁 29: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
-
-### 📁 30: Dicts, Sets and Tuples
+### 📁 30: 
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 
 ### 📁 31: Dicts, Sets and Tuples
