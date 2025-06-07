@@ -91,67 +91,67 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Lab | Tableau advanced charts](https://github.com/Guilhermertp/lab-tableau-advanced-charts)
 
 ### 📁 29: Tableau Dashboard Mini Project
-- [Lab | Tableau Dashboard Mini Project](https://github.com/Guilhermertp/lab-London-crime/)
+- [Lab | Tableau Dashboard Mini Project- London Crime](https://github.com/Guilhermertp/lab-London-crime/)
 
-### 📁 30: 
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 30: Pivot Tables
+- [Lab | Pivot Table and Correlations](https://github.com/Guilhermertp/lab-pivot-table-and-correlation)
 
-### 📁 31: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 31: Descriptive Statistics
+- [Lab | Understanding descriptive stats](https://github.com/Guilhermertp/Descriptive-Stats)
 
-### 📁 32: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 32: Subsetting and Descriptive Statistics
+- [Lab | Subsetting and Descriptive Stats](https://github.com/Guilhermertp/lab-subsetting-and-descriptive-stats)
 
-### 📁 33: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 33: Linear Regression
+- [Lab | Regression Analysis](https://github.com/Guilhermertp/lab-regression-analysis)
 
-### 📁 34: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 34: EDA Mini-project - Part 2 (Optional)
+- [Lab | Inferential Statistics Review](https://github.com/Guilhermertp/M2-mini-project2)
 
-### 📁 35: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 35: Introduction to Probability
+- [Lab | Probability Introduction](https://github.com/Guilhermertp/lab-intro-prob)
 
-### 📁 36: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 36: Probability Distributions
+- [Lab | Dicts, Sets, and Tuples]()
 
-### 📁 37: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 37: 
+- [Lab | Dicts, Sets, and Tuples]()
 
-### 📁 38: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 38: 
+- [Lab | Dicts, Sets, and Tuples]()
 
-### 📁 39: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 39: 
+- [Lab | Dicts, Sets, and Tuples]()
 
-### 📁 40: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+### 📁 40: 
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 41: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 42: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 43: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 44: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 45: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 46: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 47: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 48: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 
 ### 📁 49: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dicts, Sets, and Tuples]()
 ---
 
 ## Final Project 🎓
