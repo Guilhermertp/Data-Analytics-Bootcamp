@@ -10,7 +10,7 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Prework](https://github.com/Guilhermertp/data-prework)
 
 ### 📁 2: First Project
-- [Text RPG Game-Python]([https://github.com/your-username/cleaning-housing-week2](https://github.com/Guilhermertp/Text_RPG_Game/)
+- [Text RPG Game-Python](https://github.com/Guilhermertp/Text_RPG_Game/)
 
 ### 📁 Week 3: SQL & Database Queries
 - [Text RPG Game-Python](https://github.com/your-username/sql-project-week3)
