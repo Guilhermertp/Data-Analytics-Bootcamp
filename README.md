@@ -6,8 +6,8 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 
 ## Week-by-Week Projects
 
-### 📁 Week 1: Exploratory Data Analysis
-- [EDA on Sales Data](https://github.com/your-username/eda-sales-week1)
+### 📁 1: Prework for the Ironhack Data Analytics Bootcamp
+- [Prework](https://github.com/Guilhermertp/data-prework)
 
 ### 📁 Week 2: Data Cleaning & Pandas
 - [Cleaning Housing Dataset](https://github.com/your-username/cleaning-housing-week2)
