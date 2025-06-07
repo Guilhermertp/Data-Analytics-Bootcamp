@@ -79,7 +79,7 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Lab | Code Simplicity and Efficiency](https://github.com/Guilhermertp/Code-Simplicity-Efficiency)
 
 ### 📁 25: Project WebScrapping
-- [Project Data Thieves](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Project Data Thieves](https://github.com/Guilhermertp/project-data-thieves)
 
 ### 📁 26: Introduction to BI and Tableau
 - [Lab | Introduction to BI and Tableau](https://github.com/Guilhermertp/lab-intro-bi-tableau)
