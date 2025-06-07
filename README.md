@@ -13,7 +13,7 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Text RPG Game-Python](https://github.com/Guilhermertp/Text_RPG_Game)
 
 ### 📁 3: List comprehensions
-- [Lab | List Comprehensions](https://github.com/your-username/sql-project-week3)
+- [Lab | List Comprehensions](https://github.com/Guilhermertp/lab-list-comprehensions)
 
 ### 📁 4: Dicts, Sets and Tuples
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-list-comprehensions)
