@@ -4,7 +4,7 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 
 ---
 
-## Week-by-Week Projects
+## Week-by-Week Labs&Projects
 
 ### 📁 1: Prework for the Ironhack Data Analytics Bootcamp
 - [Prework](https://github.com/Guilhermertp/data-prework)
