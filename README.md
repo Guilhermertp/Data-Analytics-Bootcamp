@@ -142,17 +142,27 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 ### 📁 45: Bayesian Statistics (Optional)
 - [Lab | Intro to Bayesian Statistics](https://github.com/Guilhermertp/Bayesian-Statistics)
 
-### 📁 46: 
-- [Lab | Dicts, Sets, and Tuples]()
+### 📁 46: Project Data collection and analysis
+- [Project Guidelines](https://github.com/Guilhermertp/Project-Week-6)
+- [My Project- Lisbon-Parking](https://github.com/Guilhermertp/Lisbon-Parking-Project)
 
-### 📁 47: 
-- [Lab | Dicts, Sets, and Tuples]()
+### 📁 47: Intro to Machine Learning
+- [Lab | Introduction to Machine Learning and ML Workflow](https://github.com/Guilhermertp/lab-intro-to-ml)
 
-### 📁 48: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples]()
+### 📁 48: Supervised Learning
+- [Lab | Supervised Learning](https://github.com/Guilhermertp/lab-supervised-learning)
 
-### 📁 49: 
-- [Lab | Dicts, Sets, and Tuples]()
+### 📁 49: Supervised Learning with Scikit-learn
+- [Lab | Supervised Learning with Scikit-Learn](https://github.com/Guilhermertp/lab-supervised-learning-sklearn)
+
+### 📁 50: Imbalance
+- [Lab | Imbalance between classes](https://github.com/Guilhermertp/lab-imbalance)
+
+### 📁 51: Problems in Machine Learning
+- [Lab | Problems with Machine Learning](https://github.com/ta-data-lis/lab-problems-in-ml)
+
+### 📁 52: 
+- [Lab | Supervised Learning with Scikit-Learn](https://github.com/Guilhermertp/lab-supervised-learning-sklearn)
 ---
 
 ## Final Project 🎓
