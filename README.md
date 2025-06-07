@@ -16,7 +16,7 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Lab | List Comprehensions](https://github.com/Guilhermertp/lab-list-comprehensions)
 
 ### 📁 4: Dicts, Sets and Tuples
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-list-comprehensions)
+- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
 ---
 
 ## Final Project 🎓
