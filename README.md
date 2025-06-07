@@ -22,22 +22,22 @@ Welcome to my collection of projects and assignments from the Data Analytics Boo
 - [Lab | String Operations and Bag of Words](https://github.com/Guilhermertp/lab-string-operations)
 
 ### 📁 6: Numpy
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Numpy Deep Dive](https://github.com/Guilhermertp/lab-numpy)
 
 ### 📁 7: Intro to Pandas
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Introduction to Pandas](https://github.com/Guilhermertp/lab-intro-pandas)
 
 ### 📁 8: My First Queries
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | My first queries](https://github.com/Guilhermertp/lab-mysql-first-queries)
 
 ### 📁 9: MySQL Select
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | MySQL Select](https://github.com/Guilhermertp/lab-mysql-select)
 
 ### 📁 10: MySQL Advanced
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Advanced MySQL](https://github.com/Guilhermertp/lab-advanced-mysql)
 
 ### 📁 11: Dataframe Calculations
-- [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
+- [Lab | Dataframe Calculation and Transformation](https://github.com/Guilhermertp/lab-dataframe-calculations)
 
 ### 📁 12: Advanced Pandas
 - [Lab | Dicts, Sets, and Tuples](https://github.com/Guilhermertp/lab-tuple-set-dict)
